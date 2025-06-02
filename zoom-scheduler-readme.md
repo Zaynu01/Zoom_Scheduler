@@ -69,7 +69,7 @@ Your Excel file should have the following structure with headers in row 1:
 | Marcos Ty | mcr@gmail.com | IDK | Monday | Wednesday | 20 | 30 |
 
 **Column Details:**
-- **Column A (Coach)**: Coach/Instructor name (informational only)
+- **Column A (Name)**: Host name (informational only)
 - **Column B (Email)**: Zoom account email for meeting host
 - **Column C (Subject)**: Meeting topic/title
 - **Column D (Day 1)**: First meeting day (Monday, Tuesday, Wednesday, etc.)
